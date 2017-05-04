@@ -1,11 +1,11 @@
 {
-	"name": "superbalist/flysystem-google-storage",
+	"name": "mgriego/flysystem-google-storage",
 	"description": "Flysystem adapter for Google Cloud Storage",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-			"email": "info@superbalist.com"
+			"name": "SheKnows Media",
+			"email": "michael.griego@sheknows.com"
 		}
 	],
 	"require": {
@@ -24,10 +24,5 @@
 	},
 	"config": {
 		"bin-dir": "bin"
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "1.0-dev"
-		}
 	}
 }
